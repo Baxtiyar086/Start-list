@@ -1,0 +1,16 @@
+body{
+    font-family: "Kode Mono", monospace;
+}
+.main-second{
+    background-color: red;
+    padding: 6px;
+}
+.main{
+    text-align: center;
+}
+.main-item{
+   text-align: center;
+}
+.bg-red{
+    color: red;
+}
